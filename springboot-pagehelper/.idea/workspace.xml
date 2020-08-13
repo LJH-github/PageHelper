@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2c7098ca-ce4d-41fb-b98e-ece8b8a58916" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CompilerWorkspaceConfiguration">
+    <option name="MAKE_PROJECT_ON_SAVE" value="true" />
+    <option name="PARALLEL_COMPILATION" value="true" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="D:/Tools/apache-maven-3.6.3" />
+        <option name="userSettingsFile" value="D:\Tools\apache-maven-3.6.3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1fz19Q4SlZTtORw3dID0lpEpfrg" />
+  <component name="ProjectViewState">
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="File.Encoding" />
+  </component>
+  <component name="RunManager" selected="Spring Boot.SpringbootPagehelperApplication">
+    <configuration name="SpringbootPagehelperApplicationTests.test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="springboot-pagehelper" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.ljh.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="cn.ljh" />
+      <option name="MAIN_CLASS_NAME" value="cn.ljh.SpringbootPagehelperApplicationTests" />
+      <option name="METHOD_NAME" value="test1" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringbootPagehelperApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="springboot-pagehelper" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="cn.ljh.SpringbootPagehelperApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.SpringbootPagehelperApplicationTests.test1" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2c7098ca-ce4d-41fb-b98e-ece8b8a58916" name="Default Changelist" comment="" />
+      <created>1597205954758</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1597205954758</updated>
+      <workItem from="1597205957540" duration="11922000" />
+      <workItem from="1597237379322" duration="2372000" />
+      <workItem from="1597309241992" duration="206000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="864" y="312" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog" timestamp="1597223551462">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="864" y="312" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog/-1920.0.1280.693/0.0.1920.1040@0.0.1920.1040" timestamp="1597223551462" />
+    <state x="939" y="266" key="#com.intellij.ide.util.MemberChooser" timestamp="1597223770379">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="939" y="266" key="#com.intellij.ide.util.MemberChooser/-1920.0.1280.693/0.0.1920.1040@0.0.1920.1040" timestamp="1597223770379" />
+    <state width="1877" height="372" key="GridCell.Tab.0.bottom" timestamp="1597309450117">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="372" key="GridCell.Tab.0.bottom/-1920.0.1280.693/0.0.1920.1040@0.0.1920.1040" timestamp="1597309450117" />
+    <state width="1877" height="372" key="GridCell.Tab.0.center" timestamp="1597309450117">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="372" key="GridCell.Tab.0.center/-1920.0.1280.693/0.0.1920.1040@0.0.1920.1040" timestamp="1597309450117" />
+    <state width="1877" height="372" key="GridCell.Tab.0.left" timestamp="1597309450117">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="372" key="GridCell.Tab.0.left/-1920.0.1280.693/0.0.1920.1040@0.0.1920.1040" timestamp="1597309450117" />
+    <state width="1877" height="372" key="GridCell.Tab.0.right" timestamp="1597309450117">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="372" key="GridCell.Tab.0.right/-1920.0.1280.693/0.0.1920.1040@0.0.1920.1040" timestamp="1597309450117" />
+    <state width="1877" height="372" key="GridCell.Tab.1.bottom" timestamp="1597309450118">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="372" key="GridCell.Tab.1.bottom/-1920.0.1280.693/0.0.1920.1040@0.0.1920.1040" timestamp="1597309450118" />
+    <state width="1877" height="372" key="GridCell.Tab.1.center" timestamp="1597309450117">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="372" key="GridCell.Tab.1.center/-1920.0.1280.693/0.0.1920.1040@0.0.1920.1040" timestamp="1597309450117" />
+    <state width="1877" height="372" key="GridCell.Tab.1.left" timestamp="1597309450117">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="372" key="GridCell.Tab.1.left/-1920.0.1280.693/0.0.1920.1040@0.0.1920.1040" timestamp="1597309450117" />
+    <state width="1877" height="372" key="GridCell.Tab.1.right" timestamp="1597309450117">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="372" key="GridCell.Tab.1.right/-1920.0.1280.693/0.0.1920.1040@0.0.1920.1040" timestamp="1597309450117" />
+    <state width="1619" height="208" key="GridCell.Tab.2.bottom" timestamp="1597309450101">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1619" height="208" key="GridCell.Tab.2.bottom/-1920.0.1280.693/0.0.1920.1040@0.0.1920.1040" timestamp="1597309450101" />
+    <state width="1619" height="208" key="GridCell.Tab.2.center" timestamp="1597309450101">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1619" height="208" key="GridCell.Tab.2.center/-1920.0.1280.693/0.0.1920.1040@0.0.1920.1040" timestamp="1597309450101" />
+    <state width="1619" height="208" key="GridCell.Tab.2.left" timestamp="1597309450100">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1619" height="208" key="GridCell.Tab.2.left/-1920.0.1280.693/0.0.1920.1040@0.0.1920.1040" timestamp="1597309450100" />
+    <state width="1619" height="208" key="GridCell.Tab.2.right" timestamp="1597309450101">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1619" height="208" key="GridCell.Tab.2.right/-1920.0.1280.693/0.0.1920.1040@0.0.1920.1040" timestamp="1597309450101" />
+    <state x="384" y="129" key="SettingsEditor" timestamp="1597206302197">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="384" y="129" key="SettingsEditor/-1920.0.1280.693/0.0.1920.1040@0.0.1920.1040" timestamp="1597206302197" />
+  </component>
+</project>

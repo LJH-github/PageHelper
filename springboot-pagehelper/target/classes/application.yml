@@ -1,0 +1,22 @@
+spring:
+  datasource:
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    url: jdbc:mysql://localhost:3306/pagehelper?useUnicode=true&serverTimezone=UTC&characterEncoding=utf-8
+    username: root
+    password: root
+
+    # 关闭thymeleaf缓存
+  thymeleaf:
+    cache: false
+
+# 整合mybatis-->必要
+mybatis:
+  mapper-locations: classpath:mybatis/mapper/*.xml
+  type-aliases-package: cn.ljh.pojo
+
+# 添加分页插件配置
+pagehelper:
+  helper-dialect: mysql
+  reasonable: true
+  support-methods-arguments: true
+  params: count=countSql

@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:th="http://www.w3.org/1999/xhtml">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>分页测试</title>
+    <link rel="stylesheet" href="https://cdn.staticfile.org/twitter-bootstrap/3.3.7/css/bootstrap.min.css">
+    <script src="https://cdn.staticfile.org/jquery/2.1.1/jquery.min.js"></script>
+    <script src="https://cdn.staticfile.org/twitter-bootstrap/3.3.7/js/bootstrap.min.js"></script>
+</head>
+
+<body>
+
+<div class="container">
+    <div class="row">
+        <table class="table table-striped">
+            <caption>PageHelper插件</caption>
+            <thead>
+            <tr>
+                <th>id</th>
+                <th>学号</th>
+                <th>密码</th>
+                <th>姓名</th>
+                <th>年龄</th>
+                <th>性别</th>
+                <th>学院</th>
+                <th>专业</th>
+                <th>班级</th>
+                <th>住址</th>
+
+            </tr>
+            </thead>
+            <tbody>
+            <tr th:each="user:${userList.list}">
+                <td th:text="${user.id}"></td>
+                <td th:text="${user.stunum}"></td>
+                <td th:text="${user.stupwd}"></td>
+                <td th:text="${user.stuname}"></td>
+                <td th:text="${user.stuage}"></td>
+                <td th:text="${user.stusex}"></td>
+                <td th:text="${user.stucollege}"></td>
+                <td th:text="${user.studept}"></td>
+                <td th:text="${user.stuclass}"></td>
+                <td th:text="${user.stuaddress}"></td>
+            </tr>
+            </tbody>
+        </table>
+    </div>
+    <div class="row">
+        <caption>当前<span th:text="${userList.pageNum}"></span>页，
+            总共<span th:text="${userList.pages}"></span>页，
+            总共<span th:text="${userList.total}"></span>条记录。
+        </caption>
+    </div>
+    <div class="row">
+        <ul class="pager">
+            <li class="previous" th:classappend="${(userList.pageNum-1)==0}?'disabled'">
+                <a th:href="@{/?pageNo=}+${userList.pageNum-1}">&larr; Older</a></li>
+            <li class="next" th:classappend="${(userList.pageNum)==(userList.pages)}?'disabled'">
+                <a th:href="@{/?pageNo=}+${userList.pageNum+1}">Newer &rarr;</a></li>
+        </ul>
+    </div>
+</div>
+</body>
+</html>
